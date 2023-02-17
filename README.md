@@ -75,12 +75,11 @@ Circuito Armado:
 • Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/117923992/219564748-918b8a6d-9128-4d80-a102-acf5599dbb26.png)
+![image](https://user-images.githubusercontent.com/117923992/219661017-01f35105-0a87-4076-9daf-45b47a04e774.png)
 
 Imagen del Osiloscopio
 
-![image](https://user-images.githubusercontent.com/117923992/219564994-152a8cf0-0e04-4ce2-85bc-d282b0b76395.png)
-
+![image](https://user-images.githubusercontent.com/117923992/219661093-d867ad98-668a-41fe-906b-749576ce16b7.png)
 
       Responda las siguientes preguntas:
 
@@ -90,7 +89,7 @@ considerar las graficas que presenta el osciloscopio.
 
 • ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
- 3 voltios por cuadro
+La amplitud pico abarca aproximadamente 2.7 diviciones por cuadrado
  
 • ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
@@ -98,16 +97,20 @@ considerar las graficas que presenta el osciloscopio.
 
 • ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-8 divisiones
+Un ciclo de la onda abarca aproximadamente 7 divisiones
 
 • ¿En qué valor está posicionada la perilla TIME/DIV?
 
-50us
+55.83u
 
 • ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
-Amplitud de voltaje:11.2 (V)
+Amplitud de voltaje es 
+
+![image](https://user-images.githubusercontent.com/117923992/219663913-ef756295-171e-40f8-b7e2-b75f1c8f8908.png)
+
+6.88V
 
 Periodo:0,0004(s)
 
@@ -123,10 +126,9 @@ f: ![image](https://user-images.githubusercontent.com/117923992/219567612-070d66
 
 • Con el multímetro digital mida el voltaje de salida en RL:
 
-![image](https://user-images.githubusercontent.com/117923992/219566752-21c4ce27-d20a-431a-8ae9-24577b6215a1.png)
+![image](https://user-images.githubusercontent.com/117923992/219660742-b0473533-3429-4850-b716-f26039de6f33.png)
  
- El voltaje en RL es 9.71
-
+ El voltaje en RL es 4.85 V
 
 • Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
