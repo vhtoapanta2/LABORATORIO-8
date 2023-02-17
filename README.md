@@ -72,16 +72,16 @@ una frecuencia de 2.5 Khz.
 
 Circuito Armado:
 
-![image](https://user-images.githubusercontent.com/117923992/219565139-6beefa41-2312-4b44-b924-4bfec4d69e5e.png)
+![image](https://user-images.githubusercontent.com/117923992/219682758-7196be0c-14af-4475-bbf7-fd41cb597137.png)
 
 • Conecte el osciloscopio al resistor de carga RL. Observe la señal que aparece en
 el osciloscopio.
 
-![image](https://user-images.githubusercontent.com/117923992/219661017-01f35105-0a87-4076-9daf-45b47a04e774.png)
+![image](https://user-images.githubusercontent.com/117923992/219682913-67eeba36-f9e9-401f-a4d6-4e0fdc4289d1.png)
 
-Imagen del Osiloscopio
+CIRCUITO COMPLETO
 
-![image](https://user-images.githubusercontent.com/117923992/219661093-d867ad98-668a-41fe-906b-749576ce16b7.png)
+![image](https://user-images.githubusercontent.com/117923992/219682990-0f6f69c1-157a-46ce-9790-953ddb0d1d41.png)
 
       Responda las siguientes preguntas:
 
@@ -91,30 +91,30 @@ considerar las graficas que presenta el osciloscopio.
 
 • ¿Cuántas divisiones por cuadro abarca la amplitud pico de la señal de salida?
 
-La amplitud pico abarca aproximadamente 2.7 diviciones por cuadrado
+La amplitud pico abarca aproximadamente 3.5 diviciones por cuadrado
  
 • ¿En qué valor está posicionada la perilla VOLTS/DIV?
 
-1.4
+Esdta posicionada en 2V
 
 • ¿Cuántas divisiones por cuadro abarca un ciclo completo de la señal de salida?
 
-Un ciclo de la onda abarca aproximadamente 7 divisiones
+Un ciclo de la onda abarca aproximadamente 8 divisiones
 
 • ¿En qué valor está posicionada la perilla TIME/DIV?
 
-55.83u
+50u
 
 • ¿Cuál es la amplitud de voltaje y el periodo de la señal que aparece en la pantalla
 del osciloscopio?
 
 Amplitud de voltaje es 
 
-![image](https://user-images.githubusercontent.com/117923992/219663913-ef756295-171e-40f8-b7e2-b75f1c8f8908.png)
+![image](https://user-images.githubusercontent.com/117923992/219684000-59e236f3-2637-4b92-b7cd-79026428aae1.png)
 
-6.88V
+6.90V
 
-Periodo:0,0004(s)
+Periodo:0.8 (ms)
 
 
 • Determine la frecuencia natural (Hz) y la frecuencia angular (rad/s) de la señal de
@@ -122,15 +122,14 @@ salida.
 
 f: ![image](https://user-images.githubusercontent.com/117923992/219567612-070d660a-0197-4265-8539-1868693f93fe.png)
 
-
 ω: 5000 (rad/s)
 
 
 • Con el multímetro digital mida el voltaje de salida en RL:
 
-![image](https://user-images.githubusercontent.com/117923992/219660742-b0473533-3429-4850-b716-f26039de6f33.png)
+![image](https://user-images.githubusercontent.com/117923992/219684967-c6853633-61b8-409b-ae13-26f457f39da6.png)
  
- El voltaje en RL es 4.85 V
+ El voltaje en RL es 4.86 V
 
 • Compare el voltaje medido en el punto 7.5.5. y el obtenido en el punto 7.5.7.
 
@@ -144,7 +143,7 @@ Porque se habla de un voltaje pico y el otro es un voltaje RMS o eficazen el osi
 
       VIDEO
 
-LINK:
+LINK: https://www.youtube.com/watch?v=UbLGtYYwv1
 
       CONCLUSIOBNES:
 
