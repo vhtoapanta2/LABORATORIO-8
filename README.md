@@ -1,5 +1,7 @@
 # LABORATORIO-8
 
+![image](https://user-images.githubusercontent.com/117923992/219664856-e8098985-963b-44fa-bc27-77439cbad3f4.png)
+
       UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 
       FUNDAMENTO DE CIRCUITOS ELECTRICOS
